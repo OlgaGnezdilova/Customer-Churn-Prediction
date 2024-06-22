@@ -16,9 +16,8 @@ This project predicts customer churn based on historical data. It uses machine l
 3. Set up the environment: python setup.py install
 
 **Usage:**
-1. Prepare your dataset in CSV format.
-2. Run main.py to preprocess data and train models.
-3. View results in the output directory.
+1. Run Jupiter Notebook to preprocess data and train models.
+2. View results in the output directory.
 
 **Contributing:**
 Contributions are welcome! Please follow the guidelines in CONTRIBUTING.md for submitting pull requests and reporting issues.
